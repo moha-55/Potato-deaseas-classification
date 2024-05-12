@@ -1,2 +1,2 @@
-# Potato deaseas classification
+# Potato disease classification
  
